@@ -1,0 +1,61 @@
+.jumbotron { 
+    background-color: #21D0FC; 
+    color: #ffffff;
+    margin-bottom: 0;
+}
+.navbar {
+    margin-bottom: 10px;
+    background-color: #73E4FF;
+    border: 0;
+}
+
+
+.navbar li a, .navbar .navbar-brand { 
+    color: #414E6C !important;
+}
+
+
+.navbar-nav li a:hover {
+    color: #fff !important;
+}
+
+
+.navbar-nav li.active a {
+    color: #fff !important;
+    background-color:#21ACD2 !important;
+}
+
+
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+}
+
+
+.open .dropdown-toggle {
+    color: #fff ;
+    background-color: #21ACD2 !important;
+}
+
+.dropdown-menu li a {
+    color: #000 !important;
+}
+
+.dropdown-menu li a:hover {
+    background-color: #23D0FF !important;
+}
+
+.panel panel-desconto{
+	background-color: red;
+}
+.col{
+	height: 80px;
+}
+
+.produto a:link{
+	border-color: transparent;
+}
+
+footer {
+	background-color: #f2f2f2;
+	padding: 25px;
+}
